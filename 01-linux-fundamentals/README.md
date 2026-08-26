@@ -1,45 +1,25 @@
-Linux is one of the core operating systems used in modern DevOps infrastructure.
+# 🐧 Linux Fundamentals — Lab 01
 
-This section covers the fundamentals required to work confidently with Linux servers.
+## 🎯 Objective
 
+In this lab, you will learn basic Linux commands by running them yourself.
 
-##  What is Linux?
-==============================
+For every command:
 
-Linux is an open-source operating system kernel used by many server distributions, including:
+1. Read the command.
+2. See the example output.
+3. Copy the command.
+4. Run it in your Linux terminal.
+5. Compare your output.
 
-- Ubuntu
-- Debian
-- RHEL
-- Rocky Linux
-- AlmaLinux
-- Amazon Linux
+> ⚠️ Your output may be different from the examples because your machine has different users, hostname, hardware, time, etc.
 
-In DevOps environments, Linux is commonly used for:
+---
 
-- Application servers
-- Web servers
-- Container hosts
-- CI/CD servers
-- Monitoring systems
-- Database servers
-- Cloud infrastructure
+# 1. Check Current User
 
+## Command
 
+```bash
+whoami
 
-##  Basic Linux Architecture
-=====================================
-
-User
-  │
-  ▼
-Shell
-  │
-  ▼
-Operating System
-  │
-  ▼
-Linux Kernel
-  │
-  ▼
-Hardware
