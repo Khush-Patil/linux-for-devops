@@ -1,36 +1,3 @@
-# 👤 Linux Users & Permissions — Hands-on Lab
-
-This lab teaches Linux users, groups, ownership, permissions, and access control from **beginner to advanced**.
-
-You will learn how to:
-
-- Check current user
-- Check user ID and groups
-- Understand `/etc/passwd`
-- Understand `/etc/group`
-- Create users
-- Modify users
-- Delete users
-- Create groups
-- Add users to groups
-- Remove users from groups
-- Switch users
-- Use `sudo`
-- Understand file ownership
-- Understand Linux permissions
-- Use `chmod`
-- Use `chown`
-- Use `chgrp`
-- Understand numeric permissions
-- Understand symbolic permissions
-- Understand `umask`
-- Understand SUID
-- Understand SGID
-- Understand Sticky Bit
-- Use ACLs
-- Troubleshoot permission denied errors
-- Perform practical DevOps permission tasks
-
 > ⚠️ Some commands in this lab require `sudo`.
 >
 > ⚠️ Commands that create/delete users or groups should be performed on a test machine or lab VM.
