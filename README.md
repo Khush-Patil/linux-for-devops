@@ -1,2 +1,4 @@
-# linux-for-devops
-Practical Linux administration, automation, security, and troubleshooting for DevOps engineers.
+# 🐧 Linux for DevOps
+
+A practical, production-oriented Linux reference covering system administration, networking, security, automation, and troubleshooting for DevOps engineers.
+
