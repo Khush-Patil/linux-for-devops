@@ -18,6 +18,8 @@ ps
 ```
 ps shows processes associated with the current terminal/session.
 
+---
+
 # 2. Show All Processes
 
 ## Command
@@ -38,6 +40,8 @@ khushboo    2451  0.0  0.1  15000  5000 pts/0  Ss   07:40   0:00 bash
 
 ```
 ps aux is one of the most commonly used commands for process troubleshooting.
+
+---
 
 3. Show Processes in Full Format
 Command
