@@ -1,7 +1,5 @@
 # 📌 Linux Networking Basics
 
-This lab covers Linux networking commands from **beginner to advanced**.
-
 ---
 
 # 1. Check Hostname
